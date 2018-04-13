@@ -1,3 +1,4 @@
+
 .selected {
     background-color: #CFD8DC !important;
     color: white;
@@ -41,35 +42,16 @@
     display: inline-block;
     font-size: small;
     color: white;
-    padding: 0.7em 0.7em 0 0.7em;
+    padding: 0.8em 0.7em 0 0.7em;
     background-color: #607D8B;
     line-height: 1em;
     position: relative;
     left: -1px;
-    right: -4px;
+    top: -4px;
     height: 1.8em;
     margin-right: .8em;
     border-radius: 4px 0 0 4px;
 }
-
-/*
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
-*/
-
-
-
 
 
 
