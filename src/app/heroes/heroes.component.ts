@@ -10,16 +10,8 @@ import { HeroService } from '../hero.service';
 })
 export class HeroesComponent implements OnInit {
   
-  //Comented lines are deleted dead code
-  // selectedHero: Hero;
   heroes: Hero[];
   
-  /* 
-  onSelect(hero: Hero):void {
-    this.selectedHero = hero;
-  }
-  */
-
   constructor(private heroService : HeroService) { }
 
   getHeroes(): void {
